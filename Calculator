@@ -1,10 +1,14 @@
 using System;
 
+ “subtraction
  multiplication
+
+addition
 class Calculator 
 {
     static void Main() 
 {
+ “subtraction
         Console.WriteLine("Name: mujahid");
 Console.WriteLine("roll:24 ST 065 ");
  division
@@ -22,5 +26,10 @@ class Calculator
     Console.WriteLine("roll:24 ST 065 ");
     Console.WriteLine("Subtraction: " + (5 - 3));
  “subtraction
+
+    Console.WriteLine("Name: mujahid");
+    Console.WriteLine("roll:24 ST 065 ");
+    Console.WriteLine("Addition: " + (5 + 3));
+ addition
     }
 }
