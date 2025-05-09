@@ -6,7 +6,11 @@ class Calculator
 {
         Console.WriteLine("Name: mujahid");
 Console.WriteLine("roll:24 ST 065 ");
+ division
+Console.WriteLine("Division: " + (5 / 3.0));
+
 Console.WriteLine("Multiplication: " + (5 * 3));
 
+ multiplication
     }
 }
