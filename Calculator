@@ -1,0 +1,8 @@
+using System;
+
+class Calculator {
+    static void Main() {
+        Console.WriteLine("Name: mujahid");
+Console.WriteLine("roll:24 ST 065 ");
+    }
+}
