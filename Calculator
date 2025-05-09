@@ -1,8 +1,11 @@
 using System;
 
-class Calculator {
-    static void Main() {
+class Calculator 
+{
+    static void Main() 
+{
         Console.WriteLine("Name: mujahid");
 Console.WriteLine("roll:24 ST 065 ");
+Console.WriteLine("Division: " + (5 / 3.0));
     }
 }
