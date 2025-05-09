@@ -1,8 +1,12 @@
 using System;
 
-class Calculator {
-    static void Main() {
+class Calculator 
+{
+    static void Main() 
+{
         Console.WriteLine("Name: mujahid");
 Console.WriteLine("roll:24 ST 065 ");
+Console.WriteLine("Multiplication: " + (5 * 3));
+
     }
 }
